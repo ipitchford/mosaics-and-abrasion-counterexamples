@@ -1,0 +1,53 @@
+{
+  "title": "Creation of centroidal equilibria under curvature abrasion, and a moment obstruction to stochastic monotonicity",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "version": "1.1.0-candidate",
+  "publication_date": "2026-10-05",
+  "access_right": "open",
+  "license": "cc-zero",
+  "keywords": [
+    "curvature flow",
+    "abrasion",
+    "centroidal equilibria",
+    "stochastic drift"
+  ],
+  "description": "Unrefereed mathematical candidate. Smooth globally convex centroidal family with 22 to 26 equilibria under forward curvature flow for sufficiently small positive parameter; separate moment-to-sign counterexample. No certified numerical parameter threshold or physically sampled rock ensemble. Supplied review actioned; internal finite exact replay and written analytic arguments, not external peer review, formal verification or independent reproduction. Shared evidence archive includes the companion manuscript. Original prose/data CC0-1.0; original code MIT.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ipitchford/mosaics-and-abrasion-counterexamples",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23167002",
+      "relation": "isRelatedTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/s00332-014-9228-3",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1006/jdeq.1995.1019",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.4310/jdg/1214438998",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.48550/arXiv.1506.05030",
+      "relation": "cites",
+      "scheme": "doi"
+    }
+  ]
+}

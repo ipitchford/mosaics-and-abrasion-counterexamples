@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this unrefereed candidate."
+title: "Creation of centroidal equilibria under curvature abrasion, and a moment obstruction to stochastic monotonicity"
+authors:
+  - name: Anonymous
+version: "1.1.0-candidate"
+date-released: 2026-10-05
+doi: 10.5281/zenodo.23167004
+url: https://github.com/ipitchford/mosaics-and-abrasion-counterexamples
+license: CC0-1.0

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0",
+  "contributionMap": [
+    {
+      "claim": "Rational periodic h=468/115 counterexample and regular-class comparison",
+      "unit": "statement",
+      "paperLocation": "Mosaics Theorem 1.1 and Sections 6–7",
+      "searches": [
+        {
+          "date": "2026-10-05",
+          "query": "harmonic degree convex mosaic counterexample periodic Laguerre",
+          "corpus": "Retrospective primary-source web comparison and supplied dated source ledger"
+        }
+      ],
+      "closestPriorWork": "Domokos–Langi band; Ziegler earlier high-degree tilings",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "Schlegel insertion and projected-product inputs",
+      "unit": "method",
+      "paperLocation": "Mosaics Sections 2,5–7",
+      "searches": [
+        {
+          "date": "2026-10-05",
+          "query": "Schlegel tilings harmonic degree four polytope complexity",
+          "corpus": "Retrospective primary-source web comparison and supplied dated source ledger"
+        }
+      ],
+      "closestPriorWork": "Ziegler 2002 Section 7 and 2004 projected products",
+      "verdict": "known-cited"
+    },
+    {
+      "claim": "Explicit centroidal 22-to-26 forward-flow construction and moment obstruction",
+      "unit": "statement",
+      "paperLocation": "Abrasion Theorem 1.1 and Section 6",
+      "searches": [
+        {
+          "date": "2026-10-05",
+          "query": "centroid equilibrium creation curvature flow stochastic sign covariance",
+          "corpus": "Retrospective primary-source web comparison and supplied dated source ledger"
+        }
+      ],
+      "closestPriorWork": "Domokos 2015 and Damon 1995 local creation background",
+      "verdict": "new-in-bounded-search"
+    }
+  ],
+  "sourcesReadInFull": [
+    {
+      "citation": "Domokos–Langi",
+      "evidenceLocator": "https://arxiv.org/pdf/1905.00721",
+      "readWhat": "Definitions and Conjecture 1",
+      "date": "2026-10-05",
+      "usedFor": "Selected full-text arguments, not an entire-source reproduction: Target band and geometric hypotheses"
+    },
+    {
+      "citation": "Ziegler 2002",
+      "evidenceLocator": "https://arxiv.org/pdf/math/0208073",
+      "readWhat": "Sections 4 and 7",
+      "date": "2026-10-05",
+      "usedFor": "Selected full-text arguments, not an entire-source reproduction: Flag inequality and inherited tiling insertion"
+    },
+    {
+      "citation": "Ziegler 2004",
+      "evidenceLocator": "https://arxiv.org/pdf/math/0407042",
+      "readWhat": "Construction and Theorem 1.1; Proposition 5.1 facet-count proof",
+      "date": "2026-10-05",
+      "usedFor": "Selected full-text arguments, not an entire-source reproduction: Inherited polytope family and exact counts"
+    },
+    {
+      "citation": "Domokos 2015",
+      "evidenceLocator": "https://arxiv.org/pdf/1308.4779",
+      "readWhat": "Equations 49–53, separate Assumption 2-A, Conjecture 1 and centroid discussion",
+      "date": "2026-10-05",
+      "usedFor": "Selected full-text arguments, not an entire-source reproduction: Moment inference distinct from physical ensemble"
+    },
+    {
+      "citation": "Huang v8",
+      "evidenceLocator": "https://arxiv.org/pdf/1506.05030v8",
+      "readWhat": "Theorems 1.1–1.2,2.3–2.4 and Section 3",
+      "date": "2026-10-05",
+      "usedFor": "Selected full-text arguments, not an entire-source reproduction: Local existence and linear Schauder input; dependence derived in manuscript"
+    }
+  ],
+  "limitationTriage": [
+    {
+      "limitation": "An exact classification of S3",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "16 is a universal maximum",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "h>3 for all normal convex face-to-face mosaics",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "A counterexample in unweighted Euclidean Voronoi mosaics",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "A numerical mu threshold for the PDE family",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "Refutation of all stochastic abrasion ensembles or Domokos Assumption 2-A",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "Novel invention of Schlegel tiling insertion or qualitative high-degree tilings",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "Typicality or observed frequency of these constructions in geology",
+      "closingQuestion": "Can an existing theorem or bounded check resolve this within the requested review?",
+      "triedOrSearched": "Supplied review and primary-source comparisons; exact finite replay and proof-interface checks.",
+      "estimatedCost": "New research or external assurance beyond this bounded revision",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Not established by current evidence",
+      "whyNotClosedNow": "Not required for the precisely scoped candidate; explicitly excluded."
+    },
+    {
+      "limitation": "Capped-epigraph boundary incidences and common-time PDE dependence omitted in detail",
+      "closingQuestion": "Can the two proof interfaces be expanded from explicit counts and standard local theory?",
+      "triedOrSearched": "Bounded cell-type accounting; closed-manifold local existence, linear Schauder estimates and Banach implicit-function theorem.",
+      "estimatedCost": "Two local proof expansions",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    }
+  ],
+  "extensionScout": {
+    "by": "Codex publication agent",
+    "date": "2026-10-05",
+    "proposals": [
+      "Add read-only weighted checker and corruption controls",
+      "Expand the two load-bearing proof interfaces"
+    ],
+    "actions": [
+      "Implemented and checked; no new universal or physical-ensemble claim"
+    ]
+  }
+}

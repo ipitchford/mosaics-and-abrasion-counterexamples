@@ -1,0 +1,2 @@
+# Tested with CPython 3.13.5. Scripts use Python 3.10+ syntax.
+sympy==1.14.0

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "read_only": true,
+  "sha256": "5a8f7545c068c8a599c7f67621b6b64026c84bf4c731da2f19faa7f506188063",
+  "sites": 373,
+  "cells": 432,
+  "scope": "Exact deterministic reconstruction comparison; shared implementation"
+}

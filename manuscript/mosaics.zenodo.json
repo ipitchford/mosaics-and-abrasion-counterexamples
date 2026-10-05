@@ -1,0 +1,53 @@
+{
+  "title": "Rational Laguerre counterexamples to the harmonic-degree band for convex mosaics",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "version": "1.1.0-candidate",
+  "publication_date": "2026-10-05",
+  "access_right": "open",
+  "license": "cc-zero",
+  "keywords": [
+    "convex mosaics",
+    "harmonic degree",
+    "Laguerre diagram",
+    "four-polytopes"
+  ],
+  "description": "Unrefereed mathematical candidate. Exact rational harmonic-degree counterexample 468/115, periodic weighted realization, interval (3,16), and regular-class asymptotic four-polytope comparison. Not a universal maximum, unweighted Voronoi counterexample or empirical fragmentation result. Supplied review actioned; internal finite exact replay and written analytic arguments, not external peer review, formal verification or independent reproduction. Shared evidence archive includes the companion manuscript. Original prose/data CC0-1.0; original code MIT.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ipitchford/mosaics-and-abrasion-counterexamples",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23167004",
+      "relation": "isRelatedTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1080/10586458.2019.1691090",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/s004540010039",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1090/S1079-6762-04-00137-4",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/PL00009434",
+      "relation": "cites",
+      "scheme": "doi"
+    }
+  ]
+}

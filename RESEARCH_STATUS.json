@@ -1,0 +1,111 @@
+{
+  "schema": "evidence-press/problem2/research-status/v1",
+  "date": "2026-10-05",
+  "status": "CANDIDATE_WITH_EXACT_CHECKS",
+  "independent_human_review": "NOT_PERFORMED",
+  "proof_assistant_formalization": "NOT_PERFORMED",
+  "priority": "NOT_CERTIFIED",
+  "claims": [
+    {
+      "id": "M1",
+      "title": "False universal upper band",
+      "statement": "Normal rational periodic convex face-to-face 3-mosaic with h=468/115>4.",
+      "location": "mosaics, Theorem 1.1",
+      "evidence": "exact finite certificate plus geometric proof",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "M2",
+      "title": "Periodic weighted realization",
+      "statement": "Rational periodic weighted-Delaunay and Laguerre dual realizations of M1.",
+      "location": "mosaics, Section 4",
+      "evidence": "rational weights and exact macro-face tests",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "M3",
+      "title": "Unbounded mean-degree coordinates",
+      "statement": "Both coordinates separately unbounded for all d>=3; quantitative cyclic-polytope families.",
+      "location": "mosaics, Section 5",
+      "evidence": "analytic proof; qualitative high-degree tilings are prior art",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "M4",
+      "title": "Attainable interval",
+      "statement": "Every h in (3,16) occurs in dimension 3; rational h occurs periodically.",
+      "location": "mosaics, Section 6",
+      "evidence": "published projected-product theorem plus two-stack insertion/mixing proof",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "M5",
+      "title": "Regular-class asymptotic comparison",
+      "statement": "Closure of periodic weighted-Delaunay/Laguerre harmonic degrees equals finite asymptotic raw four-polytope complexity limits; unboundedness equivalent.",
+      "location": "mosaics, Section 7",
+      "evidence": "analytic transfer and capped-epigraph proof",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "M6",
+      "title": "Regular-class lower bound",
+      "statement": "h>=3 for periodic weighted-Delaunay/Laguerre mosaics.",
+      "location": "mosaics, Section 7",
+      "evidence": "established four-polytope flag inequality plus cap limit",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "A1",
+      "title": "Deterministic centroidal creation",
+      "statement": "Explicit support family has N=22 before and N=26 after positive-time birth under mean-curvature flow for sufficiently small positive mu.",
+      "location": "abrasion, Theorem 1.1",
+      "evidence": "analytic forward-flow unfolding plus exact symbolic enumeration",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "A2",
+      "title": "Abrasion extensions",
+      "statement": "Same mechanism for nonnegative Bloore-type combinations with b+c>0; endpoint counts persist on an open set of asymmetric bodies.",
+      "location": "abrasion, Section 5",
+      "evidence": "strict-parabolic derivative, symmetry and Morse-persistence proofs",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "A3",
+      "title": "Distribution-free expectation failure",
+      "statement": "Any measure supported on the bad open set has expectation increase between fixed endpoint times.",
+      "location": "abrasion, Corollary 5.2",
+      "evidence": "endpoint count constancy; no natural-ensemble claim",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "A4",
+      "title": "Moment inference counterexample",
+      "statement": "Zero means and covariance allow E sign=-4/5 and E jump=8/5 at equal positive coefficients.",
+      "location": "abrasion, Section 6",
+      "evidence": "four-outcome exact rational law",
+      "status": "PROVED_IN_MANUSCRIPT"
+    },
+    {
+      "id": "A5",
+      "title": "Corrected drift criteria",
+      "statement": "Exact sign-probability condition; conditional symmetry sufficient; Gaussian formula and corrected 75/25 assumptions.",
+      "location": "abrasion, Section 6",
+      "evidence": "elementary probability proofs",
+      "status": "PROVED_IN_MANUSCRIPT"
+    }
+  ],
+  "not_claimed": [
+    "An exact classification of S3",
+    "16 is a universal maximum",
+    "h>3 for all normal convex face-to-face mosaics",
+    "A counterexample in unweighted Euclidean Voronoi mosaics",
+    "A numerical mu threshold for the PDE family",
+    "Refutation of all stochastic abrasion ensembles or Domokos Assumption 2-A",
+    "Novel invention of Schlegel tiling insertion or qualitative high-degree tilings",
+    "Typicality or observed frequency of these constructions in geology"
+  ],
+  "version": "1.1.0-candidate",
+  "publicationIdentity": "Two separately identified unrefereed papers; provider public state is recorded outside the immutable research archive.",
+  "claimStatusMeaning": "PROVED_IN_MANUSCRIPT denotes a written candidate proof, not external or formal certification."
+}

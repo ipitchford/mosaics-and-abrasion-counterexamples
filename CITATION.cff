@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite each paper using manuscript/mosaics.cff or manuscript/abrasion.cff."
+title: "Convex mosaics and centroidal abrasion: shared evidence package"
+authors:
+  - name: Anonymous
+version: "1.1.0-candidate"
+date-released: 2026-10-05
+url: https://github.com/ipitchford/mosaics-and-abrasion-counterexamples
+license: CC0-1.0

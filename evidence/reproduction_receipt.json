@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "sympy": "1.14.0",
+  "steps": [
+    {
+      "script": "build_mosaic.py",
+      "exit_code": 0,
+      "wall_seconds": 0.949,
+      "log": "build_mosaic.log"
+    },
+    {
+      "script": "verify_mosaic.py",
+      "exit_code": 0,
+      "wall_seconds": 1.369,
+      "log": "mosaic_verification.log"
+    },
+    {
+      "script": "verify_regular_realization.py",
+      "exit_code": 0,
+      "wall_seconds": 1.266,
+      "log": "regular_realization_verification.log"
+    },
+    {
+      "script": "check_weighted_certificate.py",
+      "exit_code": 0,
+      "wall_seconds": 1.3,
+      "log": "weighted_readonly_verification.log"
+    },
+    {
+      "script": "verify_abrasion.py",
+      "exit_code": 0,
+      "wall_seconds": 0.726,
+      "log": "abrasion_verification.log"
+    },
+    {
+      "script": "test_rejection.py",
+      "exit_code": 0,
+      "wall_seconds": 12.23,
+      "log": "rejection_tests.log"
+    }
+  ],
+  "arithmetic": "rational and exact symbolic; no geometric floating-point tolerances",
+  "network_access_required_for_replay": false,
+  "scope": "Finite computational checks. Infinite tiling, family limits, and PDE theorems are proved in the manuscripts."
+}

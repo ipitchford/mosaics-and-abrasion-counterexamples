@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "arithmetic": "exact rational",
+  "template_scale": "1/256",
+  "weighted_sites_per_period": 373,
+  "Delaunay_cells_per_period": 432,
+  "directed_macro_face_tests": 24,
+  "minimum_strict_macro_gap": "8426635718028359287/255182159259348442040",
+  "Laguerre_dual_counts": {
+    "V": 432,
+    "C": 373,
+    "I": 3276,
+    "harmonic_degree": "468/115"
+  },
+  "global_argument": "Strict local convexity within every macro tetrahedron and across every macro face, plus quadratic-periodic growth, certifies the global weighted lower hull. The dual is the power diagram of the listed periodic sites."
+}

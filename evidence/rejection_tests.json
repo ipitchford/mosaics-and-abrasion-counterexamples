@@ -1,0 +1,100 @@
+{
+  "status": "PASS",
+  "positive_controls": 2,
+  "corrupted_certificates_rejected": 9,
+  "optimized_execution_guards": 5,
+  "tests": [
+    {
+      "test": "unaltered certificate",
+      "expected": "PASS",
+      "actual": "PASS"
+    },
+    {
+      "test": "initial coordinate",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "facet equality set",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "missing facet and support",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "Schlegel coordinate",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "regular height",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "incidence total",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "failure_class": "AssertionError"
+    },
+    {
+      "test": "positive weighted control",
+      "expected": "PASS",
+      "actual": "PASS",
+      "input_unchanged": true
+    },
+    {
+      "test": "site weight",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "input_unchanged": true
+    },
+    {
+      "test": "lattice translation",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "input_unchanged": true
+    },
+    {
+      "test": "cell reference",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "input_unchanged": true
+    },
+    {
+      "test": "build_mosaic.py under -O",
+      "expected": "REJECT",
+      "actual": "REJECT"
+    },
+    {
+      "test": "verify_mosaic.py under -O",
+      "expected": "REJECT",
+      "actual": "REJECT"
+    },
+    {
+      "test": "verify_regular_realization.py under -O",
+      "expected": "REJECT",
+      "actual": "REJECT"
+    },
+    {
+      "test": "verify_abrasion.py under -O",
+      "expected": "REJECT",
+      "actual": "REJECT"
+    },
+    {
+      "test": "check_weighted_certificate.py under -O",
+      "expected": "REJECT",
+      "actual": "REJECT"
+    }
+  ],
+  "wall_seconds": 12.174,
+  "scope": "Bounded smoke tests; not an exhaustive mutation campaign or an independent human audit."
+}

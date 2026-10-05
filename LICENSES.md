@@ -1,0 +1,1 @@
+Original manuscript, original diagrams, metadata and mathematical certificates: CC0-1.0. Original executable code: MIT (LICENSE-CODE). Dependencies retain upstream licenses and are not bundled. Cited literature and private review text are excluded; their rights are not changed.

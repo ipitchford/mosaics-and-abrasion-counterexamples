@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "renderer": "pdftoppm via PDF skill renderer; final changed page also checked with MuPDF",
+  "documents": [
+    {
+      "file": "manuscript/mosaics.pdf",
+      "pages": 12,
+      "all_pages_contain_text": true,
+      "replacement_glyphs": false,
+      "unresolved_cross_references": false,
+      "LaTeX_overfull_boxes": false
+    },
+    {
+      "file": "manuscript/abrasion.pdf",
+      "pages": 8,
+      "all_pages_contain_text": true,
+      "replacement_glyphs": false,
+      "unresolved_cross_references": false,
+      "LaTeX_overfull_boxes": false
+    }
+  ],
+  "notes": "All 20 pages rendered and visually inspected in contact sheets; main counts and abrasion classification pages also inspected at full page resolution. Final LaTeX logs have no unresolved citations or overfull boxes."
+}

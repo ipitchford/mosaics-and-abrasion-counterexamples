@@ -1,0 +1,116 @@
+{
+  "status": "PASS",
+  "arithmetic": "exact symbolic and rational",
+  "epsilon": "1/100",
+  "support_function": "1 + epsilon*(y^2/2 + x^3*z/6 - 2*x*y^2*z + mu*x*z), x^2+y^2+z^2=1",
+  "central_symmetry": true,
+  "curvature_radius_lower_bound_for_abs_mu_le_1": "9/10",
+  "fold_jets": {
+    "s": "1",
+    "sx": "0",
+    "sy": "0",
+    "sxx": "0",
+    "sxy": "0",
+    "syy": "1/100",
+    "sxxx": "1/100",
+    "sxyy": "-1/25"
+  },
+  "MCF_gradient_time_derivative_at_fold": "-29799/1020100",
+  "Gauss_flow_gradient_time_derivative_at_fold": "-299/10201",
+  "MCF_fold_time_linear_coefficient": "10201/29799",
+  "critical_quartic": "13*t**4 - 52*t**3 - 3*t**2 + 48*t - 12",
+  "quartic_discriminant": "25315198272",
+  "root_certificates": [
+    {
+      "root_interval": [
+        "-99/100",
+        "-49/50"
+      ],
+      "root_count": 1,
+      "q_between_zero_and_one": true,
+      "Hessian_determinant_sign": 1,
+      "type": "maximum",
+      "multiplicity_on_sphere": 4
+    },
+    {
+      "root_interval": [
+        "27/100",
+        "7/25"
+      ],
+      "root_count": 1,
+      "q_between_zero_and_one": true,
+      "Hessian_determinant_sign": -1,
+      "type": "saddle",
+      "multiplicity_on_sphere": 4
+    },
+    {
+      "root_interval": [
+        "22/25",
+        "89/100"
+      ],
+      "root_count": 1,
+      "q_between_zero_and_one": true,
+      "Hessian_determinant_sign": 1,
+      "type": "minimum",
+      "multiplicity_on_sphere": 4
+    },
+    {
+      "root_interval": [
+        "191/50",
+        "383/100"
+      ],
+      "root_count": 1,
+      "q_between_zero_and_one": true,
+      "Hessian_determinant_sign": -1,
+      "type": "saddle",
+      "multiplicity_on_sphere": 4
+    }
+  ],
+  "Morse_critical_counts_at_mu_zero": {
+    "minimum": 6,
+    "maximum": 6,
+    "saddle": 10
+  },
+  "additional_degenerate_points": 2,
+  "positive_mu_before_birth_total": 22,
+  "after_antipodal_birth_total": 26,
+  "probability_extensions": {
+    "moment_family": "E sign = 1-2q, q in (0,1)",
+    "independent_small_uniform_noise_preserves_counterexample": true,
+    "independent_Rademacher_A_and_double_Rademacher_B_mean_sign": "0",
+    "equal_scale_independent_Gaussian_mean_sign": "1/2"
+  },
+  "stochastic_outcomes": [
+    {
+      "probability": "9/20",
+      "A": "1",
+      "B": "-2"
+    },
+    {
+      "probability": "9/20",
+      "A": "-1",
+      "B": "2"
+    },
+    {
+      "probability": "1/20",
+      "A": "1",
+      "B": "18"
+    },
+    {
+      "probability": "1/20",
+      "A": "-1",
+      "B": "-18"
+    }
+  ],
+  "stochastic_moments": {
+    "EA": "0",
+    "EB": "0",
+    "EAB": "0",
+    "EA2": "1",
+    "EB2": "36",
+    "E_expression": "1",
+    "E_sign": "-4/5",
+    "E_jump": "8/5"
+  },
+  "scope": "The exact calculations support the analytic existence/fold argument. No flow discretization or assertion about an unspecified probability ensemble is used."
+}

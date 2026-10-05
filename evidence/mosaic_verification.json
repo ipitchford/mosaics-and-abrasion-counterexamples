@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "arithmetic": "exact rational; no numerical tolerances",
+  "certificate_sha256": "9e6edfa6f09601fdbce859a095c0631982a646bb9f151007ff52e8fa9f9d1591",
+  "initial_f_vector": [
+    64,
+    192,
+    192,
+    64
+  ],
+  "final_f_vector": [
+    66,
+    205,
+    212,
+    73
+  ],
+  "elimination": {
+    "positive_circuit_rays": 66,
+    "facet_defining_rays": 64,
+    "other_rays": 2,
+    "equality_rank_histogram": {
+      "-1": 2,
+      "3": 64
+    }
+  },
+  "template": {
+    "vertices": 66,
+    "interior_vertices": 62,
+    "cells": 72,
+    "cell_vertex_incidences": 546,
+    "interior_polygon_faces": 208,
+    "boundary_triangles": 4,
+    "exact_volume": "1/6",
+    "strict_regular_lower_hull": true
+  },
+  "periodic": {
+    "V": 373,
+    "C": 432,
+    "I": 3276,
+    "mean_cells_per_vertex": "3276/373",
+    "mean_vertices_per_cell": "91/12",
+    "harmonic_degree": "468/115"
+  },
+  "wall_seconds": 1.033
+}

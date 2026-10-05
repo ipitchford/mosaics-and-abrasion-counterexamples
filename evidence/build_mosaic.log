@@ -1,0 +1,9 @@
+{
+  "certificate": "/Users/admin/Documents/Codex/mosaic-abrasion-publication-20261005.M3xtBb/problem2_evidence_press/evidence/mosaic_certificate.json",
+  "V": 373,
+  "C": 432,
+  "I": 3276,
+  "mean_cells_per_vertex": "3276/373",
+  "mean_vertices_per_cell": "91/12",
+  "harmonic_degree": "468/115"
+}
