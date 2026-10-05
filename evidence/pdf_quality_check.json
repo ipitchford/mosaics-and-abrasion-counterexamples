@@ -1,10 +1,10 @@
 {
   "status": "PASS",
-  "renderer": "pdftoppm via PDF skill renderer; final changed page also checked with MuPDF",
+  "renderer": "MuPDF contact sheets of all pages; native compiler and pdflatex exports",
   "documents": [
     {
       "file": "manuscript/mosaics.pdf",
-      "pages": 12,
+      "pages": 13,
       "all_pages_contain_text": true,
       "replacement_glyphs": false,
       "unresolved_cross_references": false,
@@ -12,12 +12,12 @@
     },
     {
       "file": "manuscript/abrasion.pdf",
-      "pages": 8,
+      "pages": 9,
       "all_pages_contain_text": true,
       "replacement_glyphs": false,
       "unresolved_cross_references": false,
       "LaTeX_overfull_boxes": false
     }
   ],
-  "notes": "All 20 pages rendered and visually inspected in contact sheets; main counts and abrasion classification pages also inspected at full page resolution. Final LaTeX logs have no unresolved citations or overfull boxes."
+  "notes": "Version 1.1: all 22 pages rendered and visually inspected in contact sheets; final LaTeX logs have no unresolved citations or overfull boxes, and both raw-TeX preflights passed. Manuscript hashes are in MANIFEST.sha256."
 }
